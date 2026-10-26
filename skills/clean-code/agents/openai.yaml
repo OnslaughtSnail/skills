@@ -1,0 +1,4 @@
+interface:
+  display_name: "代码整洁之道 · Agent 实践"
+  short_description: "将整洁代码原则用于架构设计、实现方案、编码、审查、修复与重构，控制复杂度并保留行为契约。"
+  default_prompt: "请使用 $clean-code 处理当前代码任务，先确认目标和行为契约，再用最小必要改动改善实现并验证。"
